@@ -9,7 +9,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/xenmon-xl-model-colab/blob/main/xenmon_xl_model_v2_colab.ipynb) | xenmon_xl_model_v2_colab.ipynb
 
 ## Tutorial
-token `xen`
+Trigger word: `xen`
 
 I created my first-ever art style 🥳 I will call it XenMon style. I am heavily influenced by the Half-Life Xen Level maybe because I am playing it right now 😋 hehe.
 
