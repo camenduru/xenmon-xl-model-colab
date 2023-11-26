@@ -11,7 +11,7 @@
 ## Tutorial
 token `xen`
 
-I created my first-ever art style 🥳 I will call it XenMon style. I am heavily influenced by the Half-Life Xen Level because I am playing it right now 😋 hehe.
+I created my first-ever art style 🥳 I will call it XenMon style. I am heavily influenced by the Half-Life Xen Level maybe because I am playing it right now 😋 hehe.
 
 ## Model
 https://huggingface.co/camenduru/xenmon-xl-v2
