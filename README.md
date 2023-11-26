@@ -22,6 +22,10 @@ Thanks to https://dreamlook.ai/ ❤ <br />
 
 ## Output
 
+![download (19)](https://github.com/camenduru/xenmon-xl-model-colab/assets/54370274/c0e031ac-82fb-4def-80e5-8d44fa0c122e)
+![download (16)](https://github.com/camenduru/xenmon-xl-model-colab/assets/54370274/cf51e4ea-a0ed-4b52-a85c-5411fc1b37c9)
+![download (17)](https://github.com/camenduru/xenmon-xl-model-colab/assets/54370274/1d94dcef-dffa-404e-b7e3-f788e11a3dff)
+![download (18)](https://github.com/camenduru/xenmon-xl-model-colab/assets/54370274/930d0697-4086-4c7b-bbd8-c05e42301c6c)
 ![download (4)](https://github.com/camenduru/xenmon-xl-model-colab/assets/54370274/6b55b58c-10c5-4231-a772-4bf395bfa1cb)
 ![download (9)](https://github.com/camenduru/xenmon-xl-model-colab/assets/54370274/05333407-a89f-4bce-abf5-7b88f3b19901)
 ![download (12)](https://github.com/camenduru/xenmon-xl-model-colab/assets/54370274/38b3efb3-2b1e-46cc-8a06-5ff09fc06b13)
