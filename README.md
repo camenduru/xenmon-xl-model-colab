@@ -14,7 +14,8 @@ Trigger word: `xen`
 I created my first-ever art style 🥳 I will call it XenMon style. I am heavily influenced by the Half-Life Xen Level maybe because I am playing it right now 😋 hehe.
 
 ## Model
-https://huggingface.co/camenduru/xenmon-xl-v2
+https://civitai.com/models/213166/xenmon <br />
+https://huggingface.co/camenduru/xenmon-xl-v2 <br />
 
 ## Special Thanks
 Thanks to https://www.half-life.com/en/halflife XEN Level ❤ <br />
